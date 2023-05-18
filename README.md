@@ -6,6 +6,7 @@
 |---|---|---|--|
 |1|Automating Infrastructure on Google Cloud with Terraform|||
 |2|Build a Website on Google Cloud|[`Deploy Your Website on Cloud Run`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP659.md)|`GSP659`|
+|||[`Hosting a Web App on Google Cloud Using Compute Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP662.md)|`GSP662`|
 |3|Build and Secure Networks in Google Cloud|||
 |4|Cloud Architecture: Design, Implement, and Manage|||
 |5|Create and Manage AlloyDB Databases|||
