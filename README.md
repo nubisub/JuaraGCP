@@ -1,12 +1,16 @@
 # [#JuaraGCP Season 9](https://events.withgoogle.com/juaragcp-season-9/)
 
-<img src="README.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500"/>
+<img src="README.png" width="400"/>
 
 |No |Quest|Lab|Code|
 |---|---|---|--|
 |1|Automating Infrastructure on Google Cloud with Terraform|||
 |2|Build a Website on Google Cloud|[`Deploy Your Website on Cloud Run`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP659.md)|`GSP659`|
 |||[`Hosting a Web App on Google Cloud Using Compute Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP662.md)|`GSP662`|
+|||[`Hosting a Web App on Google Cloud Using Compute Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP662.md)|`GSP662`|
+|||[`Deploy, Scale, and Update Your Website on Google Kubernetes Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP663.md)|`GSP663`|
+|||[`Deploy, Scale, and Update Your Website on Google Kubernetes Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP699.md)|`GSP699`|
+|||[`Build a Website on Google Cloud: Challenge Lab`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP699.md)|`GSP319`|
 |3|Build and Secure Networks in Google Cloud|||
 |4|Cloud Architecture: Design, Implement, and Manage|||
 |5|Create and Manage AlloyDB Databases|||
