@@ -14,6 +14,12 @@
 |3|Build and Secure Networks in Google Cloud|||
 |4|Cloud Architecture: Design, Implement, and Manage|||
 |5|Create and Manage AlloyDB Databases|||
+|||[`AlloyDB - Database Fundamentals`](qwiklabs/5.%20Create%20and%20Manage%20AlloyDB%20Databases/GSP1083.md)|`GSP1083`|
+|||[`Migrating to AlloyDB from PostgreSQL Using Database Migration Service`](qwiklabs/5.%20Create%20and%20Manage%20AlloyDB%20Databases/GSP1084.md)|`GSP1084`|
+|||[`Migrating to AlloyDB from PostgreSQL Using PostgreSQL Tools`]()||
+|||[`Administering an AlloyDB Database`]()||
+|||[`Accelerating Analytical Queries using the AlloyDB Columnar Engine`]()||
+|||[`Create and Manage AlloyDB Databases - Challenge Lab`]()||
 |6|Create and Manage Cloud Resources|||
 |7|Create ML Models with BigQuery ML|||
 |8|Deploy and Manage Cloud Environments with Google Cloud|||
