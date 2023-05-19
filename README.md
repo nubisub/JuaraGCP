@@ -8,14 +8,14 @@
 
 ## 2. Build a Website on Google Cloud
 
-| Lab                                                                                                                                    | Code     |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [`Deploy Your Website on Cloud Run`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP659.md)                                   | `GSP659` |
-| [`Hosting a Web App on Google Cloud Using Compute Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP662.md)             | `GSP662` |
-| [`Hosting a Web App on Google Cloud Using Compute Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP662.md)             | `GSP662` |
-| [`Deploy, Scale, and Update Your Website on Google Kubernetes Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP663.md) | `GSP663` |
-| [`Deploy, Scale, and Update Your Website on Google Kubernetes Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP699.md) | `GSP699` |
-| [`Build a Website on Google Cloud: Challenge Lab`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP699.md)                     | `GSP319` |
+| Lab                                                                                                                                             | Code     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [`Deploy Your Website on Cloud Run`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP659.md)                                            | `GSP659` |
+| [`Hosting a Web App on Google Cloud Using Compute Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP662.md)                      | `GSP662` |
+| [`Hosting a Web App on Google Cloud Using Compute Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP662.md)                      | `GSP662` |
+| [`Deploy, Scale, and Update Your Website on Google Kubernetes Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP663.md)          | `GSP663` |
+| [`Migrating a Monolithic Website to Microservices on Google Kubernetes Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP699.md) | `GSP699` |
+| [`Build a Website on Google Cloud: Challenge Lab`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP699.md)                              | `GSP319` |
 
 <br>
 
@@ -25,14 +25,14 @@
 
 ## 5. Create and Manage AlloyDB Databases
 
-| Lab                                                                                                                                             | Code      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [`AlloyDB - Database Fundamentals`](qwiklabs/5.%20Create%20and%20Manage%20AlloyDB%20Databases/GSP1083.md)                                       | `GSP1083` |
-| [`Migrating to AlloyDB from PostgreSQL Using Database Migration Service`](qwiklabs/5.%20Create%20and%20Manage%20AlloyDB%20Databases/GSP1084.md) | `GSP1084` |
-| [`Migrating to AlloyDB from PostgreSQL Using PostgreSQL Tools`]()                                                                               |           |
-| [`Administering an AlloyDB Database`]()                                                                                                         |           |
-| [`Accelerating Analytical Queries using the AlloyDB Columnar Engine`]()                                                                         |           |
-| [`Create and Manage AlloyDB Databases - Challenge Lab`]()                                                                                       |           |
+| Lab                                                                                                                                          | Code      |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [`AlloyDB - Database Fundamentals`](qwiklabs/5.Create%20and%20Manage%20AlloyDB%20Databases/GSP1083.md)                                       | `GSP1083` |
+| [`Migrating to AlloyDB from PostgreSQL Using Database Migration Service`](qwiklabs/5.Create%20and%20Manage%20AlloyDB%20Databases/GSP1084.md) | `GSP1084` |
+| [`Migrating to AlloyDB from PostgreSQL Using PostgreSQL Tools`](qwiklabs/5.Create%20and%20Manage%20AlloyDB%20Databases/GSP1085.md)           | `GSP1085` |
+| [`Administering an AlloyDB Database`](qwiklabs/5.Create%20and%20Manage%20AlloyDB%20Databases/GSP1086.md)                                     | `GSP1086` |
+| [`Accelerating Analytical Queries using the AlloyDB Columnar Engine`](qwiklabs/5.Create%20and%20Manage%20AlloyDB%20Databases/GSP1087.md)     | `GSP1087` |
+| [`Create and Manage AlloyDB Databases - Challenge Lab`](qwiklabs/5.Create%20and%20Manage%20AlloyDB%20Databases/GSP395.md)                    | `GSP395`  |
 
 <br>
 
