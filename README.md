@@ -60,6 +60,13 @@
 
 ## 9. Deploy to Kubernetes in Google Cloud
 
+| Lab                                                                                                              | Code     |
+| ---------------------------------------------------------------------------------------------------------------- | -------- |
+| [`Introduction to Docker`](qwiklabs/9.Deploy%20to%20Kubernetes%20in%20Google%20Cloud/GSP055.md)                  | `GSP055` |
+| [`Kubernetes Engine: Qwik Start`](qwiklabs/6.Create%20and%20Manage%20Cloud%20Resources/GSP100.md)                | `GSP100` |
+| [`Orchestrating the Cloud with Kubernetes`](qwiklabs/9.Deploy%20to%20Kubernetes%20in%20Google%20Cloud/GSP021.md) | `GSP021` |
+| [`Deploy to Kubernetes in Google Cloud: Challenge Lab`](#9-deploy-to-kubernetes-in-google-cloud)                 | `GSP318` |
+
 <br>
 
 ## 10. Engineer Data in Google Cloud
