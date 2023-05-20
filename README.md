@@ -38,6 +38,16 @@
 
 ## 6. Create and Manage Cloud Resources
 
+| Lab | Code |
+| --- | ---- |
+|['A Tour of Google Cloud Hands-on Labs'](#6-create-and-manage-cloud-resources)|`GSP282`|
+|['Creating a Virtual Machine'](#6-create-and-manage-cloud-resources)|`GSP001`|
+|['Compute Engine: Qwik Start - Windows']()||
+|['Getting Started with Cloud Shell and gcloud']()||
+|['Kubernetes Engine: Qwik Start']()||
+|['Set Up Network and HTTP Load Balancers']()||
+|['Create and Manage Cloud Resources: Challenge Lab']()||
+
 <br>
 
 ## 7. Create ML Models with BigQuery ML
