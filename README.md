@@ -38,15 +38,15 @@
 
 ## 6. Create and Manage Cloud Resources
 
-| Lab | Code |
-| --- | ---- |
-|['A Tour of Google Cloud Hands-on Labs'](#6-create-and-manage-cloud-resources)|`GSP282`|
-|['Creating a Virtual Machine'](#6-create-and-manage-cloud-resources)|`GSP001`|
-|['Compute Engine: Qwik Start - Windows']()||
-|['Getting Started with Cloud Shell and gcloud']()||
-|['Kubernetes Engine: Qwik Start']()||
-|['Set Up Network and HTTP Load Balancers']()||
-|['Create and Manage Cloud Resources: Challenge Lab']()||
+| Lab                                                                                                                  | Code     |
+| -------------------------------------------------------------------------------------------------------------------- | -------- |
+| [`A Tour of Google Cloud Hands-on Labs`](#6-create-and-manage-cloud-resources)                                       | `GSP282` |
+| [`Creating a Virtual Machine`](#6-create-and-manage-cloud-resources)                                                 | `GSP001` |
+| [`Compute Engine: Qwik Start - Windows`]()                                                                           | `GSP093` |
+| [`Getting Started with Cloud Shell and gcloud`](qwiklabs/6.Create%20and%20Manage%20Cloud%20Resources/GSP002.md)      | `GSP002` |
+| [`Kubernetes Engine: Qwik Start`](qwiklabs/6.Create%20and%20Manage%20Cloud%20Resources/GSP100.md)                    | `GSP100` |
+| [`Set Up Network and HTTP Load Balancers`](qwiklabs/6.Create%20and%20Manage%20Cloud%20Resources/GSP007.md)           | `GSP007` |
+| [`Create and Manage Cloud Resources: Challenge Lab`](qwiklabs/6.Create%20and%20Manage%20Cloud%20Resources/GSP313.md) | `GSP313` |
 
 <br>
 
@@ -111,6 +111,13 @@
 <br>
 
 ## 22. Serverless Firebase Development
+
+| Lab                                                                                                                         | Code     |
+| --------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [`Importing Data to a Firestore Database`](qwiklabs/22.Serverless%20Firebase%20Development/GSP642.md)                       | `GSP642` |
+| [`Build a Serverless Web App with Firebase`](qwiklabs/22.Serverless%20Firebase%20Development/GSP643.md)                     | `GSP643` |
+| [`Deploy a Hugo Website with Cloud Build and Firebase Pipeline`](qwiklabs/22.Serverless%20Firebase%20Development/GSP747.md) | `GSP747` |
+| [`Serverless Firebase Development: Challenge Lab`](qwiklabs/22.Serverless%20Firebase%20Development/GSP344.md)               | `GSP344` |
 
 <br>
 
