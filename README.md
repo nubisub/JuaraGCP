@@ -56,6 +56,16 @@
 
 ## 8. Deploy and Manage Cloud Environments with Google Cloud
 
+| Lab                                                                                                                                                                  | Code     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [`Configuring IAM Permissions with gcloud`]()                                                                                                                        | `GSP647` |
+| [`Hosting a Web App on Google Cloud Using Compute Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP662.md)                                           | `GSP662` |
+| [`Orchestrating the Cloud with Kubernetes`](qwiklabs/9.Deploy%20to%20Kubernetes%20in%20Google%20Cloud/GSP021.md)                                                     | `GSP021` |
+| [`Networking 101`](qwiklabs/8.Deploy%20and%20Manage%20Cloud%20Environments%20with%20Google%20Cloud/GSP016.md)                                                        | `GSP016` |
+| [`Using BigQuery and Cloud Logging to Analyze BigQuery Usage`](qwiklabs/8.Deploy%20and%20Manage%20Cloud%20Environments%20with%20Google%20Cloud/GSP617.md)            | `GSP617` |
+| [`Migrate to Cloud SQL for PostgreSQL using Database Migration Service`](qwiklabs/8.Deploy%20and%20Manage%20Cloud%20Environments%20with%20Google%20Cloud/GSP318.md)  | `GSP318` |
+| [`Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab`](qwiklabs/8.Deploy%20and%20Manage%20Cloud%20Environments%20with%20Google%20Cloud/GSP314.md) | `GSP314` |
+
 <br>
 
 ## 9. Deploy to Kubernetes in Google Cloud
