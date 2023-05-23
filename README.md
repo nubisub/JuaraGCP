@@ -89,6 +89,15 @@
 
 ## 12. Exploring Data with Looker
 
+| Lab                                                                                              | Code     |
+| ------------------------------------------------------------------------------------------------ | -------- |
+| [`Looker Data Explorer - Qwik Start`](#12-exploring-data-with-looker)                            | `GSP718` |
+| [`Filtering and Sorting Data in Looker`](#12-exploring-data-with-looker)                         | `GSP855` |
+| [`Merging Results from Different Explores in Looker`](#12-exploring-data-with-looker)            | `GSP856` |
+| [`Creating a Looker Modeled Query and Working with Quick Start`](#12-exploring-data-with-looker) | `GSP984` |
+| [`Looker Functions and Operators`](#12-exploring-data-with-looker)                               | `GSP857` |
+| [`Exploring Data with Looker: Challenge Lab`](#12-exploring-data-with-looker)                    | `GSP346` |
+
 <br>
 
 ## 13. Google Cloud Solutions I: Scaling Your Infrastructure
@@ -141,3 +150,12 @@
 ## 23. Set Up and Configure a Cloud Environment in Google Cloud
 
 <br>
+
+| Lab    | Code |
+| ------ | ---- |
+| [``]() | ``   |
+| [``]() | ``   |
+| [``]() | ``   |
+| [``]() | ``   |
+| [``]() | ``   |
+| [``]() | ``   |
