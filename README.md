@@ -114,6 +114,15 @@
 
 ## 16. Insights from Data with BigQuery
 
+| Lab                                                                                                                                                                   | Code     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [`Introduction to SQL for BigQuery and Cloud SQL`](#16-insights-from-data-with-bigquery)                                                                              | `GSP281` |
+| [`BigQuery: Qwik Start - Console`](#16-insights-from-data-with-bigquery)                                                                                              | `GSP072` |
+| [`Exploring Your Ecommerce Dataset with SQL in Google BigQuery`](#16-insights-from-data-with-bigquery)                                                                | `GSP407` |
+| [`Troubleshooting Common SQL Errors with BigQuery`](#16-insights-from-data-with-bigquery)                                                                             | `GSP408` |
+| [`Explore and Create Reports with Data Studio`](#16-insights-from-data-with-bigquery)                                                                                 | `GSP409` |
+| [`Insights from Data with BigQuery: Challenge Lab`](https://www.courseintern.com/post/qwiklabs/challenge-labs/gsp787-insights-from-data-with-bigquery-challenge-lab/) | `GSP787` |
+
 <br>
 
 ## 17. Measure Site Reliability using Cloud Operations Suite
