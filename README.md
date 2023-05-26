@@ -52,6 +52,15 @@
 
 ## 7. Create ML Models with BigQuery ML
 
+| Lab                                                                        | Code     |
+| -------------------------------------------------------------------------- | -------- |
+| [`Getting Started with BigQuery Machine Learning`]()                       | `GSP247` |
+| [`Predict Visitor Purchases with a Classification Model in BigQuery ML`]() | ``       |
+| [`Predict Taxi Fare with a BigQuery ML Forecasting Model`]()               | ``       |
+| [`Bracketology with Google Machine Learning`]()                            | ``       |
+| [`Integrating BigQuery ML with Dialogflow ES Chatbot`]()                   | ``       |
+| [`Create ML Models with BigQuery ML: Challenge Lab`]()                     | ``       |
+
 <br>
 
 ## 8. Deploy and Manage Cloud Environments with Google Cloud
