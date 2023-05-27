@@ -67,7 +67,7 @@
 
 | Lab                                                                                                                                                                  | Code     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [`Configuring IAM Permissions with gcloud`]()                                                                                                                        | `GSP647` |
+| [`Configuring IAM Permissions with gcloud`](#8-deploy-and-manage-cloud-environments-with-google-cloud)                                                               | `GSP647` |
 | [`Hosting a Web App on Google Cloud Using Compute Engine`](qwiklabs/2.Build%20a%20Website%20on%20Google%20Cloud/GSP662.md)                                           | `GSP662` |
 | [`Orchestrating the Cloud with Kubernetes`](qwiklabs/9.Deploy%20to%20Kubernetes%20in%20Google%20Cloud/GSP021.md)                                                     | `GSP021` |
 | [`Networking 101`](qwiklabs/8.Deploy%20and%20Manage%20Cloud%20Environments%20with%20Google%20Cloud/GSP016.md)                                                        | `GSP016` |
@@ -93,6 +93,17 @@
 <br>
 
 ## 11. Ensure Access & Identity in Google Cloud
+
+| Lab                                                                                                                                       | Code     |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [`Cloud IAM: Qwik Start`]()                                                                                                               | `GSP064` |
+| [`IAM Custom Roles`](qwiklabs/11.Ensure%20Access%20%26%20Identity%20in%20Google%20Cloud/GSP190.md)                                        | `GSP190` |
+| [`Service Accounts and Roles: Fundamentals`](qwiklabs/11.Ensure%20Access%20%26%20Identity%20in%20Google%20Cloud/GSP199.md)                | `GSP199` |
+| [`VPC Network Peering`](qwiklabs/11.Ensure%20Access%20%26%20Identity%20in%20Google%20Cloud/GSP193.md)                                     | `GSP193` |
+| [`User Authentication: Identity-Aware Proxy`](qwiklabs/11.Ensure%20Access%20%26%20Identity%20in%20Google%20Cloud/GSP499.md)               | `GSP499` |
+| [`Getting Started with Cloud KMS`](qwiklabs/11.Ensure%20Access%20%26%20Identity%20in%20Google%20Cloud/GSP079.md)                          | `GSP079` |
+| [`Setting up a Private Kubernetes Cluster`](qwiklabs/11.Ensure%20Access%20%26%20Identity%20in%20Google%20Cloud/GSP178.md)                 | `GSP178` |
+| [`Ensure Access & Identity in Google Cloud: Challenge Lab`](qwiklabs/11.Ensure%20Access%20%26%20Identity%20in%20Google%20Cloud/GSP342.md) | `GSP342` |
 
 <br>
 
