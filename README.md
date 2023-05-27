@@ -178,6 +178,15 @@
 
 ## 23. Set Up and Configure a Cloud Environment in Google Cloud
 
+| Lab                                                                                                                                                                           | Code     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [`Cloud IAM: Qwik Start`](#23-set-up-and-configure-a-cloud-environment-in-google-cloud)                                                                                       | `GSP064` |
+| [`Introduction to SQL for BigQuery and Cloud SQL`](#23-set-up-and-configure-a-cloud-environment-in-google-cloud)                                                              | `GSP281` |
+| [`Multiple VPC Networks`](qwiklabs/23.Set%20Up%20and%20Configure%20a%20Cloud%20Environment%20in%20Google%20Cloud/GSP211.md)                                                   | `GSP211` |
+| [`Cloud Monitoring: Qwik Start`](qwiklabs/23.Set%20Up%20and%20Configure%20a%20Cloud%20Environment%20in%20Google%20Cloud/GSP089.md)                                            | `GSP089` |
+| [`Managing Deployments Using Kubernetes Engine`](qwiklabs/23.Set%20Up%20and%20Configure%20a%20Cloud%20Environment%20in%20Google%20Cloud/GSP053.md)                            | `GSP053` |
+| [`Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab`](qwiklabs/23.Set%20Up%20and%20Configure%20a%20Cloud%20Environment%20in%20Google%20Cloud/GSP321.md) | `GSP321` |
+
 <br>
 
 | Lab    | Code |
@@ -188,3 +197,5 @@
 | [``]() | ``   |
 | [``]() | ``   |
 | [``]() | ``   |
+
+3, 4, 10, , (13), (14), 15, , 17, 18, 19, (20), (21), 23
