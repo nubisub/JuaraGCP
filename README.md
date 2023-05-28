@@ -42,7 +42,7 @@
 | -------------------------------------------------------------------------------------------------------------------- | -------- |
 | [`A Tour of Google Cloud Hands-on Labs`](#6-create-and-manage-cloud-resources)                                       | `GSP282` |
 | [`Creating a Virtual Machine`](#6-create-and-manage-cloud-resources)                                                 | `GSP001` |
-| [`Compute Engine: Qwik Start - Windows`]()                                                                           | `GSP093` |
+| [`Compute Engine: Qwik Start - Windows`](#6-create-and-manage-cloud-resources)                                       | `GSP093` |
 | [`Getting Started with Cloud Shell and gcloud`](qwiklabs/6.Create%20and%20Manage%20Cloud%20Resources/GSP002.md)      | `GSP002` |
 | [`Kubernetes Engine: Qwik Start`](qwiklabs/6.Create%20and%20Manage%20Cloud%20Resources/GSP100.md)                    | `GSP100` |
 | [`Set Up Network and HTTP Load Balancers`](qwiklabs/6.Create%20and%20Manage%20Cloud%20Resources/GSP007.md)           | `GSP007` |
@@ -52,14 +52,14 @@
 
 ## 7. Create ML Models with BigQuery ML
 
-| Lab                                                                        | Code     |
-| -------------------------------------------------------------------------- | -------- |
-| [`Getting Started with BigQuery Machine Learning`]()                       | `GSP247` |
-| [`Predict Visitor Purchases with a Classification Model in BigQuery ML`]() | ``       |
-| [`Predict Taxi Fare with a BigQuery ML Forecasting Model`]()               | ``       |
-| [`Bracketology with Google Machine Learning`]()                            | ``       |
-| [`Integrating BigQuery ML with Dialogflow ES Chatbot`]()                   | ``       |
-| [`Create ML Models with BigQuery ML: Challenge Lab`]()                     | ``       |
+| Lab                                                                                                            | Code     |
+| -------------------------------------------------------------------------------------------------------------- | -------- |
+| [`Getting Started with BigQuery Machine Learning`](#7-create-ml-models-with-bigquery-ml)                       | `GSP247` |
+| [`Predict Visitor Purchases with a Classification Model in BigQuery ML`](#7-create-ml-models-with-bigquery-ml) | ``       |
+| [`Predict Taxi Fare with a BigQuery ML Forecasting Model`](#7-create-ml-models-with-bigquery-ml)               | ``       |
+| [`Bracketology with Google Machine Learning`](#7-create-ml-models-with-bigquery-ml)                            | ``       |
+| [`Integrating BigQuery ML with Dialogflow ES Chatbot`](#7-create-ml-models-with-bigquery-ml)                   | ``       |
+| [`Create ML Models with BigQuery ML: Challenge Lab`](#7-create-ml-models-with-bigquery-ml)                     | ``       |
 
 <br>
 
@@ -162,6 +162,14 @@
 <br>
 
 ## 21. Securing your Network with Cloud Armor
+
+| Lab                                                                                                                               | Code     |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [`Bot Management with Google Cloud Armor and reCAPTCHA`](/qwiklabs/21.Securing%20your%20Network%20with%20Cloud%20Armor/GSP877.md) | `GSP877` |
+| [`Rate Limiting with Cloud Armor`](/qwiklabs/21.Securing%20your%20Network%20with%20Cloud%20Armor/GSP975.md)                       | `GSP975` |
+| [`HTTP Load Balancer with Cloud Armor`](/qwiklabs/21.Securing%20your%20Network%20with%20Cloud%20Armor/GSP215.md)                  | `GSP215` |
+| [`Defending Edge Cache with Cloud Armor`](/qwiklabs/21.Securing%20your%20Network%20with%20Cloud%20Armor/GSP878.md)                | `GSP878` |
+| [`Cloud Armor Preconfigured WAF Rules`](/qwiklabs/21.Securing%20your%20Network%20with%20Cloud%20Armor/GSP879.md)                  | `GSP879` |
 
 <br>
 
