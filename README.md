@@ -122,9 +122,25 @@
 
 ## 13. Google Cloud Solutions I: Scaling Your Infrastructure
 
+| Lab                                                                                                                                                                 | Code     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [`Autoscaling an Instance Group with Custom Cloud Monitoring Metrics`](/qwiklabs/13.Google%20Cloud%20Solutions%20I%20-%20Scaling%20Your%20Infrastructure/GSP087.md) | `GSP087` |
+| [`Setting up Jenkins on Kubernetes Engine`](/qwiklabs/13.Google%20Cloud%20Solutions%20I%20-%20Scaling%20Your%20Infrastructure/GSP117.md)                            | `GSP117` |
+| [`Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine`](/qwiklabs/13.Google%20Cloud%20Solutions%20I%20-%20Scaling%20Your%20Infrastructure/GSP114.md) | `GSP114` |
+| [`Deploying a Fault-Tolerant Microsoft Active Directory Environment`](#13-google-cloud-solutions-i-scaling-your-infrastructure)                                     | `GSP118` |
+| [`Deploying Memcached on Kubernetes Engine`](#13-google-cloud-solutions-i-scaling-your-infrastructure)                                                              | `GSP116` |
+| [`Distributed Load Testing Using Kubernetes`](/qwiklabs/13.Google%20Cloud%20Solutions%20I%20-%20Scaling%20Your%20Infrastructure/GSP182.md)                          | `GSP182` |
+
 <br>
 
 ## 14. Google Kubernetes Engine Best Practices: Security
+
+| Lab                                                                                                                                                | Code     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [`How to Use a Network Policy on Google Kubernetes Engine`](/qwiklabs/14.Google%20Kubernetes%20Engine%20Best%20Practices%20-%20Security/GSP480.md) | `GSP480` |
+| [`Using Role-based Access Control in Kubernetes Engine`](/qwiklabs/14.Google%20Kubernetes%20Engine%20Best%20Practices%20-%20Security/GSP493.md)    | `GSP493` |
+| [`Google Kubernetes Engine Security: Binary Authorization`](#14-google-kubernetes-engine-best-practices-security)                                  | ``       |
+| [`Hardening Default GKE Cluster Configurations`](#14-google-kubernetes-engine-best-practices-security)                                             | `GSP496` |
 
 <br>
 
@@ -158,6 +174,17 @@
 <br>
 
 ## 20. Perform Foundational Infrastructure Tasks in Google Cloud
+
+| Lab                                                                                                                                                                        | Code     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [`Cloud Storage: Qwik Start - Cloud Console`](/qwiklabs/20.Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud/GSP073.md)                                | `GSP073` |
+| [`Cloud Storage: Qwik Start - CLI/SDK`](/qwiklabs/20.Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud/GSP073.md)                                      | `GSP073` |
+| [`Cloud Functions: Qwik Start - Console`](/qwiklabs/20.Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud/GSP081.md)                                    | `GSP081` |
+| [`Cloud Functions: Qwik Start - Command Line`](/qwiklabs/20.Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud/GSP081.md)                               | `GSP081` |
+| [`Google Cloud Pub/Sub: Qwik Start - Console`](/qwiklabs/20.Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud/GSP096.md)                               | `GSP096` |
+| [`Google Cloud Pub/Sub: Qwik Start - Command Line`](/qwiklabs/20.Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud/GSP096.md)                          | `GSP096` |
+| [`Google Cloud Pub/Sub: Qwik Start - Python`](/qwiklabs/20.Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud/GSP096.md)                                | `GSP096` |
+| [`Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab`](/qwiklabs/20.Perform%20Foundational%20Infrastructure%20Tasks%20in%20Google%20Cloud/GSP315.md) | `GSP315` |
 
 <br>
 
@@ -197,13 +224,11 @@
 
 <br>
 
-| Lab    | Code |
-| ------ | ---- |
-| [``]() | ``   |
-| [``]() | ``   |
-| [``]() | ``   |
-| [``]() | ``   |
-| [``]() | ``   |
-| [``]() | ``   |
-
-3, 4, 10, , (13), (14), 15, , 17, 18, 19, (20), (21), 23
+| Lab     | Code |
+| ------- | ---- |
+| [``](#) | ``   |
+| [``](#) | ``   |
+| [``](#) | ``   |
+| [``](#) | ``   |
+| [``](#) | ``   |
+| [``](#) | ``   |
